@@ -1,0 +1,36 @@
+7
+111
+Dragon Ball
+123.0
+Toriyama Akira
+1
+112
+Dragon Ball
+11110.0
+Toriyama Akira
+2
+23
+Doraemon
+10000.0
+Fujiko Fujio
+24
+125
+Dune
+15000.0
+Frank Herbert
+2
+1532
+Solo Leveling
+15500.0
+Sung Jin Woo
+1
+1893
+Harry Potter
+20000.0
+J. K. Rowling
+1
+123
+Dragon ball Z
+10500.0
+Toriyama Akira
+3

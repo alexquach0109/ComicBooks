@@ -1,0 +1,26 @@
+5
+111
+Dragon Ball
+10000
+Toriyama Akira
+1
+112
+Dragon Ball
+10000
+Toriyama Akira
+2
+0123
+Dune
+15000
+Frank Herbert
+1
+23
+Doraemon
+10000
+Fujiko Fujio
+24
+0125
+Dune
+15000
+Frank Herbert
+2
